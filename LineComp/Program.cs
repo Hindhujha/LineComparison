@@ -1,7 +1,13 @@
-﻿Using System;
+﻿using System;
 namespace LineComp
 {
-    class UC0;
-    Console.Writeline("WELCOME TO LINE COMPARISON PROBLEM");
+    class UC0
+    {
+    static void Main(string[] args)
+    {
+        Console.WriteLine("WELCOME TO LINE COMPARISON PROBLEM");
+
+
+    }
+     }
 }
-    
